@@ -62,9 +62,9 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples/blob/main/CONTRIBUTING.md">Como contribuir</a> &#xa0; • &#xa0;
-<a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples/issues">Issues</a> &#xa0; • &#xa0;
-<a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples/discussions">Discussions</a>
+  <a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples/blob/main/CONTRIBUTING.md">Como contribuir</a> &#xa0; • &#xa0;
+  <a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples/issues">Issues</a> &#xa0; • &#xa0;
+  <a href="https://github.com/juletopi/Pagina_Calculadora_de_Soma_Simples/discussions">Discussions</a>
 </div>
 
 <!-- ABOUT THE PAGE -->
@@ -80,7 +80,7 @@
 
 A página foi criada como parte das atividades para a disciplina de [Programação Web](https://github.com/juletopi/Programacao_Web).
 
-O objetivo com a criação desta página-web, é fixar o aprendizado do JavaScript com o uso do jQuery para a manipulação do DOM (Document Object Model) e manipulação de eventos (click, submit, etc.).
+O objetivo com a criação desta página-web, é fixar o aprendizado do **JavaScript** com o uso da biblioteca do **jQuery** para a manipulação do DOM (Document Object Model) e manipulação de eventos (click, submit, etc.).
 
 <div align="left">
   <h6><a href="#página-de-calculadora-de-soma-simples-"> Voltar para o início ↺</a></h6>
@@ -92,7 +92,7 @@ A página inclui as seguintes principais funcionalidades:
 
 - Um botão "Calcular" que, ao ser clicado, irá somar os valores inseridos nos dois campos.
 - O resultado da soma exibido em um alert, sem que a página seja recarregada. Feito com JavaScript.
-- Uso do jQuery para a implementação de tal funcionalidade.
+- Uso da biblioteca do jQuery para a implementação de tal funcionalidade.
 - Responsividade para diferentes tamanhos de tela.
 
 <div align="left">
