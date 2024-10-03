@@ -53,6 +53,12 @@
     </a>
 </div>
 
+<div align="center">
+    <a href="https://www.w3schools.com/jquery/">
+        <img src="https://img.shields.io/badge/Made%20with%20library:-jQuery%20-gray.svg?colorA=16537e&amp;colorB=0d3b5c&amp;style=for-the-badge" alt="jQueryLibrary-badge" style="max-width: 100%;">
+    </a>
+</div>
+
 <br>
 
 <div align="center">
